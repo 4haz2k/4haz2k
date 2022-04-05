@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there 👋, I'm Alex
 
-<!--
-**4haz2k/4haz2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=VladKalachev)
 
-Here are some ideas to get you started:
+## I'm a BackEnd Developer
+- 💪 I like to create projects
+- 🥅 I am constantly learning new things
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="AlexPavlov | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="AlexPavlov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="AlexPavlov | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JetBrains PHP Strom" width="26px" src="https://github.com/4haz2k/4haz2k/blob/d4200efb11fd3531819005123597840d27e7ba49/phpstorm.svg" />
+<img align="left" alt="Laravel" width="26px" src="https://github.com/4haz2k/4haz2k/blob/e45ebac7637fcfe0ae0781774df4031b20e979f8/58480e35cef1014c0b5e4920.png" />
+
+[telegram]: https://t.me/alex42k
+[instagram]: https://www.instagram.com/alekse12k
+[vk]: https://vk.com/zytia
