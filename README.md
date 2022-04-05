@@ -22,12 +22,14 @@
 <img align="left" alt="JetBrains PHP Strom" width="26px" src="https://github.com/4haz2k/4haz2k/blob/d4200efb11fd3531819005123597840d27e7ba49/phpstorm.svg" />
 <img align="left" alt="Laravel" width="26px" src="https://github.com/4haz2k/4haz2k/blob/e45ebac7637fcfe0ae0781774df4031b20e979f8/58480e35cef1014c0b5e4920.png" />
 
-<details>
-  <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4haz2k&langs_count=8&layout=compact" />
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=4haz2k&show_icons=true" />
-</details>
+<br />
+
+### Statistic
+
+<img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4haz2k&langs_count=8&layout=compact" />
+<br />
+<img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=4haz2k&show_icons=true" />
+
 
 [telegram]: https://t.me/alex42k
 [instagram]: https://www.instagram.com/alekse12k
