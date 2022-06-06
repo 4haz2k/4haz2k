@@ -1,10 +1,11 @@
-### Hi there 👋, I'm Alex
+### Hi there, I'm Alex, BackEnd Developer
 
 ![](https://komarev.com/ghpvc/?username=4haz2k&style=flat&color=yellow)
 
-## I'm a BackEnd Developer
-- 💪 I like to create projects
-- 🥅 I am constantly learning new things
+## Сurrent projects
+- [MNSGame.Ru - Monitoring site system of games](https://github.com/4haz2k/GSMS)
+- [NetherCraft Project - Minecraft multiserver system](https://github.com/4haz2k/nethercraft.fun)
+- Chatty! - Social Network (currently private)
 
 ### Connect with me:
 
